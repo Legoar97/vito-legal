@@ -157,7 +157,7 @@ We may update this Privacy Notice from time to time. The updated version will be
 
 ### **10. HOW CAN YOU CONTACT US ABOUT THIS NOTICE?**
 
-If you have questions or comments about this notice, you may email us at ivanramiro97@gmail.com or contact us by post at:
+If you have questions or comments about this notice, you may email us at vito@govito.app or contact us by post at:
 
 **Vito**  
 cll 2B # 1-29  
