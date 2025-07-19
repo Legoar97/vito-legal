@@ -10,7 +10,7 @@ We are Vito ("**Company**," "**we**," "**us**," "**our**"), a company registered
 
 We operate the mobile application Vito (the "**App**"), as well as any other related products and services that refer or link to these legal terms (the "**Legal Terms**") (collectively, the "**Services**").
 
-You can contact us by phone at +573143316466, email at ivanramiro97@gmail.com, or by mail to cll 2B # 1-29, Bogotá, BOGOTÁ 110731, Colombia.
+You can contact us by phone at +573143316466, email at vito@govito.app, or by mail to cll 2B # 1-29, Bogotá, BOGOTÁ 110731, Colombia.
 
 These Legal Terms constitute a legally binding agreement made between you, whether personally or on behalf of an entity ("**you**"), and Vito, concerning your access to and use of the Services. You agree that by accessing the Services, you have read, understood, and agreed to be bound by all of these Legal Terms. **IF YOU DO NOT AGREE WITH ALL OF THESE LEGAL TERMS, THEN YOU ARE EXPRESSLY PROHIBITED FROM USING THE SERVICES AND YOU MUST DISCONTINUE USE IMMEDIATELY.**
 
@@ -74,7 +74,7 @@ solely for your personal, non-commercial use or internal business purpose.
 
 Except as set out in this section or elsewhere in our Legal Terms, no part of the Services and no Content or Marks may be copied, reproduced, aggregated, republished, uploaded, posted, publicly displayed, encoded, translated, transmitted, distributed, sold, licensed, or otherwise exploited for any commercial purpose whatsoever, without our express prior written permission.
 
-If you wish to make any use of the Services, Content, or Marks other than as set out in this section or elsewhere in our Legal Terms, please address your request to: ivanramiro97@gmail.com. If we ever grant you the permission to post, reproduce, or publicly display any part of our Services or Content, you must identify us as the owners or licensors of the Services, Content, or Marks and ensure that any copyright or proprietary notice appears or is visible on posting, reproducing, or displaying our Content.
+If you wish to make any use of the Services, Content, or Marks other than as set out in this section or elsewhere in our Legal Terms, please address your request to: vito@govito.app. If we ever grant you the permission to post, reproduce, or publicly display any part of our Services or Content, you must identify us as the owners or licensors of the Services, Content, or Marks and ensure that any copyright or proprietary notice appears or is visible on posting, reproducing, or displaying our Content.
 
 We reserve all rights not expressly granted to you in and to the Services, Content, and Marks.
 
@@ -116,7 +116,7 @@ We offer a 7-day free trial to new users who register with the Services. The acc
 
 **Cancellation**
 
-You can cancel your subscription at any time by logging into your account. Your cancellation will take effect at the end of the current paid term. If you have any questions or are unsatisfied with our Services, please email us at ivanramiro97@gmail.com.
+You can cancel your subscription at any time by logging into your account. Your cancellation will take effect at the end of the current paid term. If you have any questions or are unsatisfied with our Services, please email us at vito@govito.app.
 
 **Fee Changes**
 
@@ -258,4 +258,4 @@ cll 2B # 1-29
 Bogotá, BOGOTÁ 110731  
 Colombia  
 Phone: +573143316466  
-ivanramiro97@gmail.com
+vito@govito.app
